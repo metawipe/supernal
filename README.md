@@ -1,2 +1,1 @@
-# supernal
-Official download for Supernal
+t.me/SupernalRB
